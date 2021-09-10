@@ -1,0 +1,5 @@
+# Para utilizar a conversão de moeda
+pip install forex_python
+
+# Para utilizar a conversão de arquivo de mídia
+pip install moviepy
