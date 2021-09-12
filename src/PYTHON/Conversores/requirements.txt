@@ -3,3 +3,6 @@ pip install forex_python
 
 # Para utilizar a conversão de arquivo de mídia
 pip install moviepy
+
+# Para utilizar a conversão de texto em áudio
+pip install pyttsx3
